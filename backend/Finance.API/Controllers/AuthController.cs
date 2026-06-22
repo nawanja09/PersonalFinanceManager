@@ -2,6 +2,8 @@ using Finance.Application.Features.Authentication.Register;
 using Finance.Application.Features.Authentication.Login;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
 
 namespace Finance.API.Controllers;
 
@@ -40,5 +42,21 @@ public class AuthController : ControllerBase
         var response = await _mediator.Send(command);
 
         return Ok(response);
+    }
+
+    [Authorize]
+    [HttpGet("me")]
+    public IActionResult Me()
+    {
+        return Ok(new
+        {
+            UserId =
+                User.FindFirstValue(
+                    ClaimTypes.NameIdentifier),
+
+            Email =
+                User.FindFirstValue(
+                    ClaimTypes.Email)
+        });
     }
 }

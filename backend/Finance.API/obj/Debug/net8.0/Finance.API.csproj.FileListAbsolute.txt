@@ -112,6 +112,7 @@ C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\Finance.API.csproj.CoreCompileInputs.cache
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\Finance.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\Finance.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\Finance.API.sourcelink.json
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\staticwebassets\msbuild.Finance.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -126,3 +127,6 @@ C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\Finance.API.pdb
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\Finance.API.genruntimeconfig.cache
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\obj\Debug\net8.0\ref\Finance.API.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

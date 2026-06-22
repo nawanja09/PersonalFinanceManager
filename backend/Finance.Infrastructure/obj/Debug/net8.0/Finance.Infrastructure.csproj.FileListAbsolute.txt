@@ -11,6 +11,7 @@ C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infr
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\Finance.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\Finance.Infrastructure.AssemblyInfo.cs
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\Finance.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\Finance.Infrastructure.sourcelink.json
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\Finance..7CAD6358.Up2Date
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\Finance.Infrastructure.dll
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Infrastructure\obj\Debug\net8.0\refint\Finance.Infrastructure.dll

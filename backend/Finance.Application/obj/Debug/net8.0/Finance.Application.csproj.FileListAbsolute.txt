@@ -8,6 +8,7 @@ C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Appl
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.AssemblyInfoInputs.cache
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.AssemblyInfo.cs
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.csproj.CoreCompileInputs.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.sourcelink.json
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance..0798594C.Up2Date
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.dll
 C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\refint\Finance.Application.dll
