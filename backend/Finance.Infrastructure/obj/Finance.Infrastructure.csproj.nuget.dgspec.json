@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Infrastructure\\Finance.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Application\\Finance.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Application\\Finance.Application.csproj",
+        "projectName": "Finance.Application",
+        "projectPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Application\\Finance.Application.csproj",
+        "packagesPath": "C:\\Users\\LapMart_lk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LapMart_lk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj": {
+                "projectPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj",
+        "projectName": "Finance.Domain",
+        "projectPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj",
+        "packagesPath": "C:\\Users\\LapMart_lk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LapMart_lk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Infrastructure\\Finance.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Infrastructure\\Finance.Infrastructure.csproj",
+        "projectName": "Finance.Infrastructure",
+        "projectPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Infrastructure\\Finance.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LapMart_lk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LapMart_lk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Application\\Finance.Application.csproj": {
+                "projectPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Application\\Finance.Application.csproj"
+              },
+              "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj": {
+                "projectPath": "C:\\Users\\LapMart_lk\\Documents\\GitHub\\PersonalFinanceManager\\backend\\Finance.Domain\\Finance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.19.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.19.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

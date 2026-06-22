@@ -1,0 +1,11 @@
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\bin\Debug\net8.0\Finance.Domain.deps.json
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\bin\Debug\net8.0\Finance.Domain.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\bin\Debug\net8.0\Finance.Domain.pdb
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\Finance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\Finance.Domain.AssemblyInfoInputs.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\Finance.Domain.AssemblyInfo.cs
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\Finance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\Finance.Domain.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\refint\Finance.Domain.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\Finance.Domain.pdb
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Domain\obj\Debug\net8.0\ref\Finance.Domain.dll

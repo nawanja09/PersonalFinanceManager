@@ -1,0 +1,15 @@
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\bin\Debug\net8.0\Finance.Application.deps.json
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\bin\Debug\net8.0\Finance.Application.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\bin\Debug\net8.0\Finance.Application.pdb
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\bin\Debug\net8.0\Finance.Domain.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\bin\Debug\net8.0\Finance.Domain.pdb
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.csproj.AssemblyReference.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.AssemblyInfoInputs.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.AssemblyInfo.cs
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.csproj.CoreCompileInputs.cache
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance..0798594C.Up2Date
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\refint\Finance.Application.dll
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\Finance.Application.pdb
+C:\Users\LapMart_lk\Documents\GitHub\PersonalFinanceManager\backend\Finance.Application\obj\Debug\net8.0\ref\Finance.Application.dll
